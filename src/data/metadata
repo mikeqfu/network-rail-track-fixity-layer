@@ -1,0 +1,32 @@
+{
+    "Project": "Track Fixity Layer",
+    "Description": "Track Fixity Layer",
+    "Funder": "Network Rail Ltd.",
+    "Authors": "Qian Fu, John M. Easton & Michael P. N. Burrow",
+    "Affiliation": "School of Engineering, University of Birmingham",
+    "Team Members": {
+        "1": {
+            "Name": "Michael P. N. Burrow",
+            "Role": "PI",
+            "Email": "m.p.burrow@bham.ac.uk"
+            },
+        "2": {
+            "Name": "John M. Easton",
+            "Role": "Co-I",
+            "Email": "j.m.easton@bham.ac.uk"
+        },
+        "3": {
+            "Name": "Qian Fu",
+            "Role": "Researcher Co-I",
+            "Email": "q.fu@bham.ac.uk"
+        },
+        "4": {
+            "Name": "Sarah Jordan",
+            "Role": "Project Manager",
+            "Email": "s.jordan@bham.ac.uk"
+        }
+    },
+    "Version": "0.0.1",
+    "Project Start": "April 2019",
+    "Project End": "April 2021"
+}

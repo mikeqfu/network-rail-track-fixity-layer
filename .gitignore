@@ -1,0 +1,32 @@
+# Environment
+venv/
+.idea/
+*/vscode/
+**/__pycache__/
+
+# Notebook
+**/.ipynb_checkpoints/
+*/0*
+
+# Tests and code coverage
+.coverage
+.pytest_cache/
+cov_reports/
+tests/*_/
+
+# Sphinx documentation
+make.bat
+Makefile
+docs/source/
+docs/build/doctrees/
+docs/build/html/
+docs/build/latex/*
+!**/track_fixity_layer.pdf
+
+# Project-specific directories / files
+.credentials
+*[!_]_.py
+data/*
+demos/data/*
+files/*
+cmd.md
